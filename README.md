@@ -5,7 +5,7 @@
 
 <br>
 
-*  Different list can be made by going to (/"ListName") i.e. (https://whispering-wildwood-37211.herokuapp.com/Work) or (https://whispering-wildwood-37211.herokuapp.com/Home)
+*  Different list can be made by going to (/ListName) i.e. (https://whispering-wildwood-37211.herokuapp.com/Work) or (https://whispering-wildwood-37211.herokuapp.com/Home)
 
 
 ## Tech Stack

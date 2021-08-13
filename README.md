@@ -19,15 +19,15 @@
 [Heroku](https://whispering-wildwood-37211.herokuapp.com/)
 
 ## Demo
-![Blog](Images/todoDB.png)
+![Home](Images/todoDB.png)
 
 <br>
 
-![Compose](Images/todogrocery.png)
+![Grocery](Images/todogrocery.png)
 
 <br>
 
-![Post](Images/todoschool.png)
+![School](Images/todoschool.png)
 
 <br>
 

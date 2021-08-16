@@ -1,7 +1,7 @@
 
 # Blog Website
 
-*  This is a blog website made by using EJS, Node.js, Express.js, Lodash. It also has a MongoDB data base.
+*  This is a todo webapp made by using EJS, Node.js, Express.js, Lodash. It also has a MongoDB data base.
 
 <br>
 
